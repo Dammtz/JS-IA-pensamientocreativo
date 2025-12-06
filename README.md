@@ -2,6 +2,24 @@
 
 ---
 
+### Indice: 
+[1.-Informe de reflexión: Descripción del problema de Javascript elegido.](#-requisitos-de-entrega)
+
+[2.-Evidencia de prompts](#evidencia-de-prompts)
+
+[Fase 1](#fase-1---identificación-y-pensamiento-divergente)
+
+[Fase 2](#fase-2---desarrollo-y-desafío-del-sesgoescoge-la-idea-más-original)
+
+[3.-Analsis de Optimizacion](#análisis-de-optimización)
+
+[4.-Conclucion](#conclusión)
+
+[5.-Codigo final](#código-final)
+
+[6.-Recurso visual](#recurso-visual)
+
+
 ## 📦 Requisitos de entrega
 
 #### Informe de reflexión (Documento de texto): Descripción del problema de Javascript elegido.
